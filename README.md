@@ -1,5 +1,4 @@
 # Lab7Web
 
-<img width="960" height="445" alt="Screenshot 2026-02-06 004604" src="https://github.com/user-attachments/assets/2120fcc8-5dfa-47a5-8691-dfca2336f620" />
-<img width="1248" height="539" alt="image" src="https://github.com/user-attachments/assets/e2fecc7c-73f2-45ad-8b8e-119af10c7501" />
-
+<img width="1918" height="650" alt="Screenshot 2026-02-06 011602" src="https://github.com/user-attachments/assets/fe4110c1-d350-4327-8dae-b1c520916746" />
+<img width="1919" height="652" alt="image" src="https://github.com/user-attachments/assets/90ad6614-8cde-4d48-b291-ae13a48bd229" />
